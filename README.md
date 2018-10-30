@@ -1,5 +1,5 @@
 # Arc-Reactor
-  This is Iron man's arc reactor made in kivy framework in python.
+  This is Iron Man's(Tony Stark) arc reactor made in kivy framework in python.
   Same arc reactor can be found in HTML and CSS on [codepen](https://codepen.io/zpantalyku/full/KWYPXj/).
 
 # Instructions to run in Android
